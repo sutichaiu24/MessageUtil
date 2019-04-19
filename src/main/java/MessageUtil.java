@@ -9,7 +9,7 @@ public class MessageUtil {
         return message;
     }
     public String salutationMessage(){
-        message = "Hi!" + message;
+        message = "Hii!" + message;
         System.out.println(message);
         return message;
     }
